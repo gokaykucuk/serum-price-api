@@ -886,5 +886,13 @@
     "serumV3Usdc": "BnbZn344JTBaSdXUBh111935hA7UjnJe973AirirSzJz",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
     "raydiumV4AMM": null
+  },
+  {
+    "symbol": "DATE",
+    "tokenMint": "Ce3PSQfkxT5ua4r2JqCoWYrMwKWC5hEzwsrT9Hb7mAz9",
+    "decimals": 9,
+    "serumV3Usdc": "",
+    "programId": "",
+    "raydiumV4AMM": null
   }
 ]
